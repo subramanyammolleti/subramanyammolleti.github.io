@@ -6,17 +6,23 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Subramanyam Molleti
+tagline:          'Blog, Java, Algorithms, Servlets, Linux, C, Python, Amazon, MongoDB'
+url:              http://subramanyammolleti.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Subramanyam Molleti
+  url:            https://twitter.com/_MSubramanyam
+  email:          subbumolleti002@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/subramanyammolleti/subramanyammolleti.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
