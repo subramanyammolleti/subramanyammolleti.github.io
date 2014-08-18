@@ -11,7 +11,7 @@ title: About
 </p>
 
 I have Done Bachelor of Technology in Computer Science at [JNTUK](http://www.jntuk.edu.in/). Currently i'm looking
-for a full time [Oppurtunity in Software Development](http://in.linkedin.com/in/subramanyammolleti). 
+for a full time [Opportunity in Software Development](http://in.linkedin.com/in/subramanyammolleti). 
 
 I'm interested in *Open Source, Linux and Algorithms.*
 
