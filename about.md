@@ -6,7 +6,7 @@ title: About
 ![It's me at Araku Valley](/assets/subramanyammolleti.jpg)
 
 <p class="message">
-  Hey there! This is **Subramanyam Molleti** who loves Computer Science and 
+  Hey there! This is Subramanyam Molleti who loves Computer Science and 
   Open Source, I always Hogs on my Ubuntu Machine learning something.
 </p>
 

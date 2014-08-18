@@ -15,6 +15,7 @@ So i have setup one for myself, It's saves $10-$20/year.
 Pretty Good ha.
 
 I'm planning to write some articles on various things like
+
 * Java
 * Javascript
 * Linux
@@ -22,8 +23,6 @@ I'm planning to write some articles on various things like
 
 I'm interested in *Algorithms*, i'm not pretty good at them i want to master some of the basic *Algorithms* in
 the near future.
-
-Thanks for reading.
 
 Cheers
 
