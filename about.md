@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![It's me at Araku Valley](/assets/subramanyammolleti.jpg)
+![It's me at Shilparamam, Hyderabad](/assets/subramanyammolleti.jpg)
 
 <p class="message">
   Hey there! This is Subramanyam Molleti who loves Computer Science and 
@@ -14,6 +14,6 @@ I have Done Bachelor of Technology in Computer Science at [JNTUK](http://www.jnt
 
 I'm interested in *Open Source, Mobile and Algorithms.*
 
-I will start learning *Algorithms* soon. If you would like to say hello or something [Ping Me](https://twitter.com/_MSubramanyam), i would love to get back to you.
+I will start learning *Algorithms* soon. If you would like to say hello or something [Ping Me](https://twitter.com/_MSubramanyam), I would love to get back to you.
 
 Thanks for reading!
