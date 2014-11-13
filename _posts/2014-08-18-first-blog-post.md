@@ -6,7 +6,7 @@ permalink: first-blog-post
 ---
 
 *Hey there!* This is my first Post, I love Computer Scence and to write technical stuff, i 
-have used paid hosting with [wordpress](http://wordpress.com/) for a while. I don't know 
+have used paid hosting with [Wordpress](http://wordpress.com/) for a while. I don't know 
 why i'm not satisfied may be because of paying $10-$20 bucks for the hosting. Recently i 
 have come across a [Blog Post](http://joshualande.com/jekyll-github-pages-poole/) by 
 [Joshualande](https://twitter.com/joshualande). I loved the idea of hosting on [Github Pages]
