@@ -9,6 +9,7 @@ permalink: Getting started with Ajax
 take you through how things go in Ajax. So, let's get started.
 
 ## What on earth is Ajax ?
+
 Ajax - Asynchronous JavaScript and XML
 It's a new way of using existing standard, Ajax got popular when Google started using it in 2005 for Google Search, Google Maps and Gmail.
 
@@ -17,9 +18,9 @@ for the browser
 
 ## So, How does Ajax Work ?
 
-*  When an <strong>HTML DOM events</strong> is occured an XMLHttpRequest Object is created by the browser and it sends HttpRequest.
-*  Server Process the HttpRequest, sends back the response text and the data in the form of XML or Plain Text.
-*  Now Browser process the received data using JavaScript and the content is updated.
+* When an <strong>HTML DOM events</strong> is occured an XMLHttpRequest Object is created by the browser and it sends HttpRequest.
+* Server Process the HttpRequest, sends back the response text and the data in the form of XML or Plain Text.
+* Now Browser process the received data using JavaScript and the content is updated.
 
 
 ## Simple example on Ajax with JavaScript
@@ -31,27 +32,27 @@ for the browser
    <html>
    <head>
    <script>
-        function loadContent()
-          {
-                var xmlhttp;
-                if (window.XMLHttpRequest)
-                  {// This code if for IE7+, Firefox, Chrome, Opera, Safari
-                        xmlhttp=new XMLHttpRequest();
-                   }
-                else
-                  {// IE5,6 doesn't XMLHttpRequest object  they have                    ActiveXObject Instead
-                        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-                  }
-                xmlhttp.onreadystatechange=function()
-                  {
-                      if (xmlhttp.readyState==4 && xmlhttp.status==200)
-                            {
-                                document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
-                            }
-                  }
-                xmlhttp.open("GET","hello.php",true);
-                xmlhttp.send();
-          } // end of loadContent
+    function loadContent()
+    {
+    var xmlhttp;
+    if (window.XMLHttpRequest)
+      {// This code if for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp=new XMLHttpRequest();
+       }
+    else
+      {// IE5,6 doesn't XMLHttpRequest object  they have                    ActiveXObject Instead
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    xmlhttp.onreadystatechange=function()
+      {
+          if (xmlhttp.readyState==4 && xmlhttp.status==200)
+                {
+                    document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
+                }
+      }
+    xmlhttp.open("GET","hello.php",true);
+    xmlhttp.send();
+   } // end of loadContent
 </script>
 </head>
 <body>
@@ -74,3 +75,5 @@ For sending request to server open(), send() methods are used.
 *responseText* is the response that is the text format.
 
 Have a look at this [example here](http://practise.comoj.com/practise.html).
+
+{% include twitter_plug.html %}
