@@ -18,7 +18,7 @@ form the browser
 
 ## So, How does Ajax Work ?
 
-* When an <strong>HTML DOM events</strong> is occured an XMLHttpRequest Object is created by the browser and it sends HttpRequest.
+* When an **HTML DOM events** is occured an XMLHttpRequest Object is created by the browser and it sends HttpRequest.
 
 * Server Process the HttpRequest, sends back the response text and the data in the form of XML or Plain Text.
 
@@ -27,7 +27,7 @@ form the browser
 
 ## Simple example on Ajax with JavaScript
 
-<strong>HTML Snippet</strong>
+**HTML Snippet**
 
 ```html
    <!DOCTYPE html>
@@ -73,7 +73,7 @@ form the browser
 
 ```
 
-<strong>onreadystatechange</strong> is fired when the server response is ready to be processed.
+**onreadystatechange** is fired when the server response is ready to be processed.
 When `readyState` is 4 and `status` Code is 200 the response is ready.
 
 For sending request to server open(), send() methods are used.
@@ -95,14 +95,14 @@ Best part is we can load content directly into HTML elements in a page.
 
 This method is used load content directly into `html` elements.
 
-<strong>Syntax</strong>
+**Syntax**
 
 ```jQuery
    
    $(selector).load("file.txt") ;
     
 ```
-<strong>Example</strong>
+**Example**
 
 ```html
    <!DOCTYPE html>
@@ -138,7 +138,7 @@ Have a look at this [example here](http://practise.comoj.com/ajaxLoad.html).
 This is similar to the one which we have done above with javascript but the entire thing is done in
 a single line. 
 
-<strong>Syntax</strong>
+**Syntax**
 
 ```jQuery
    
@@ -148,7 +148,7 @@ a single line.
 
 `callback` is executed after getting the content from the page.
 
-<strong>Example</strong>
+**Example**
 
 ```html
    <!DOCTYPE html>
