@@ -70,7 +70,6 @@ form the browser
  
    </body>
    </html> 
-
 ```
 
 **onreadystatechange** is fired when the server response is ready to be processed.
@@ -98,9 +97,7 @@ This method is used load content directly into `html` elements.
 **Syntax**
 
 ```jQuery
-   
-   $(selector).load("file.txt") ;
-    
+   $(selector).load("file.txt"); 
 ```
 **Example**
 
@@ -127,8 +124,7 @@ This method is used load content directly into `html` elements.
    <button>Get Content</button>
 
    </body>
-   </html>
- 
+   </html> 
 ```
 
 Have a look at this [example here](http://practise.comoj.com/ajaxLoad.html).
@@ -141,9 +137,7 @@ a single line.
 **Syntax**
 
 ```jQuery
-   
-   $.get(Page URL,Call Back);
-    
+   $.get(Page URL,Call Back); 
 ```
 
 `callback` is executed after getting the content from the page.
@@ -176,9 +170,7 @@ a single line.
    <button>HTTP GET</button>
 
    </body>
-   </html>
-	 
-    
+   </html>   
 ```
 
 Have a look at this [example here](http://practise.comoj.com/ajaxGet.html).
