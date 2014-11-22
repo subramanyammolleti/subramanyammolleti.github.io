@@ -2,11 +2,7 @@
 layout: post
 title: "Getting started with Ajax"
 comments: true
-<<<<<<< HEAD
-permalink: getting-started-with-ajax
-=======
 permalink: "getting-started-with-ajax"
->>>>>>> update posts
 ---
 
 *Hello people!* It's been long time since the last post, i was bit busy with the work and all, today i'm going to 
@@ -88,10 +84,10 @@ Have a look at this [example here](http://practise.comoj.com/practise.html).
 
 ## Ajax with jQuery
 
-jQuery had made life so easy, ajax code can be written in a single line, jQuery team had taken care of everything
+jQuery had made life so easy, `ajax` code can be written in a single line, jQuery team had taken care of everything
 there is no need to write code for different browsers.
 
-Using jQuery methods we can request many forms of data like HTML,Plain Text, XML or JSON using GET or POST methods.
+Using jQuery methods we can request many forms of data like `HTML`,Plain Text, `XML` or `JSON` using `GET` or `POST` methods.
 Best part is we can load content directly into HTML elements in a page.
 
 ## jQuery load() method
@@ -100,11 +96,8 @@ This method is used load content directly into `html` elements.
 
 **Syntax**
 
-<<<<<<< HEAD
-```jQuery
-=======
-```js
->>>>>>> update posts
+
+```javascript
    $(selector).load("file.txt"); 
 ```
 **Example**
@@ -139,16 +132,12 @@ Have a look at this [example here](http://practise.comoj.com/ajaxLoad.html).
 
 ## jQuery get()/post() method
 
-This is similar to the one which we have done above with javascript but the entire thing is done in
+This is similar to the one which we have done above with `javascript` but the entire thing is done in
 a single line. 
 
 **Syntax**
 
-<<<<<<< HEAD
-```jQuery
-=======
-```js
->>>>>>> update posts
+```javascript
    $.get(Page URL,Call Back); 
 ```
 
@@ -188,7 +177,7 @@ a single line.
 Have a look at this [example here](http://practise.comoj.com/ajaxGet.html).
 
 In addition to the above two methods we have various methods to perform ajax operations in our pages, as it was a basic 
-article i would like to make it simple. In the next article i will show you how to make an ajax call to the REST API that 
+article i would like to make it simple. In the next article i will show you how to make an ajax call to the `REST API` that 
 is sitting on a third-part server.
 
 
