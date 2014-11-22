@@ -2,7 +2,7 @@
 layout: post
 title: "First Blog Post"
 comments: true
-permalink: first-blog-post
+permalink: "first-blog-post"
 ---
 
 *Hey there!* This is my first Post, I love Computer Scence and to write technical stuff, i 

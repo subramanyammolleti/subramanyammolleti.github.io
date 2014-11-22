@@ -2,7 +2,11 @@
 layout: post
 title: "Getting started with Ajax"
 comments: true
+<<<<<<< HEAD
 permalink: getting-started-with-ajax
+=======
+permalink: "getting-started-with-ajax"
+>>>>>>> update posts
 ---
 
 *Hello people!* It's been long time since the last post, i was bit busy with the work and all, today i'm going to 
@@ -96,7 +100,11 @@ This method is used load content directly into `html` elements.
 
 **Syntax**
 
+<<<<<<< HEAD
 ```jQuery
+=======
+```js
+>>>>>>> update posts
    $(selector).load("file.txt"); 
 ```
 **Example**
@@ -136,7 +144,11 @@ a single line.
 
 **Syntax**
 
+<<<<<<< HEAD
 ```jQuery
+=======
+```js
+>>>>>>> update posts
    $.get(Page URL,Call Back); 
 ```
 
