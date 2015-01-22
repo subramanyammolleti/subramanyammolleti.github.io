@@ -9,21 +9,21 @@ permalink: "access-whatsapp-in-web-browser"
 
 Things to do to use WhatsApp on Chrome.
 
-1. Update WhatsApp app to the latest version in your Mobile.
+1. Update `WhatsApp app` to the latest version in your Mobile.
 
-2. Download any QR Code Reader, I would recommend this [app](https://play.google.com/store/apps/details?id=la.droid.qr&hl=en)
+2. Download any `QR Code Reader`, I would recommend this [app](https://play.google.com/store/apps/details?id=la.droid.qr&hl=en)
 
 3. Open this [site](https://web.whatsapp.com/)
 
-4. Open QR Reader place your phone near the QR Code and let the phone scan, Now close QR Code app.
+4. Open `QR Reader` place your phone near the `QR Code` and let the phone scan, Now close QR Code app.
 
-5. Open Menu Option in WhatsApp in that Choose WhatsApp Web from the menu, Scan the code inside of WhatsApp, and you’re done. Now your paired with the WhatsApp web client.
+5. Open `Menu Option in WhatsApp` in that Choose `WhatsApp Web` from the menu, Scan the code inside of WhatsApp, and you’re done. Now your paired with the WhatsApp web client.
 
-![Menu Option in WhatsApp](/assets/menu-select.png) ![Scan in WhatsApp](/assets/scan-inside-whatsapp.png) 
+![Menu Option in WhatsApp](/assets/menu-select.png) ![Scan in WhatsApp](/assets/scan-inside-whatsapp.png =400x474) 
 
-Your phone needs to stay connected to the internet for web client to work.
+Your phone needs to `stay connected to the internet` for web client to work.
 
-Sorry about iPhone Users, This service is currently available to Android, Windows and Blackberry users.
+Sorry about `iPhone Users`, This service is currently available to `Android`, `Windows` and `Blackberry` users.
 
 Hope this helped, Thanks for reading
 cheers.
