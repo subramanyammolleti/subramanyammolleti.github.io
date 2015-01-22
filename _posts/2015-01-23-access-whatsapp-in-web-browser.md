@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to access Whatsapp in web browser?"
+title: "How to access Whatsapp in web browser ?"
 comments: true
 permalink: "access-whatsapp-in-web-browser"
 ---
@@ -19,7 +19,8 @@ Things to do to use WhatsApp on Chrome.
 
 5. Open `Menu Option in WhatsApp` in that Choose `WhatsApp Web` from the menu, Scan the code inside of WhatsApp, and you’re done. Now your paired with the WhatsApp web client.
 
-![Menu Option in WhatsApp](/assets/menu-select.png) <img src="/assets/scan-inside-whatsapp.png" width="400" height="474" />
+<img src="/assets/menu-select.png" style="float:left;"/>
+<img src="/assets/scan-inside-whatsapp.png" style="width: 380px;height=474" />
 
 Your phone needs to `stay connected to the internet` for web client to work.
 
