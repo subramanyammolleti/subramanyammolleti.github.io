@@ -24,7 +24,7 @@ Things to do to use WhatsApp on Chrome.
 
 Let the Browser on your PC load WhatsApp UI, Your phone needs to `stay connected to the internet` for web client to work.
 
-Sorry about `iPhone Users`, This service is currently available to `Android`, `Windows` and `Blackberry` users.
+Sorry about `iPhone Users`, This service is currently available to `Android`, `Windows` and `Blackberry` users. If your struck do post in your queries, i will get back to you asap.
 
 Hope this helped, Thanks for reading <br>
 cheers.
