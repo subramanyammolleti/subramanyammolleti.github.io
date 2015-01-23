@@ -5,7 +5,7 @@ comments: true
 permalink: "access-whatsapp-in-web-browser"
 ---
 
-*Hi! People* Now, WhatsApp can be connected on web browser too, with a Google Chrome browser(Ya! Only Chrome, You must be knowing why it is only Chrome). Well This would be very helpful to the people who will be working on a PC and takes their phones and send replies to their WhatsApp messages all the time when they get a message.
+*Hi! People* Now, WhatsApp can be connected on web browser too, with a Google Chrome browser(Ya! Only Chrome). Well This would be very helpful to the people who will be working on a PC and takes their phones and send replies to their WhatsApp messages all the time when they get a message.
 
 Things to do to use WhatsApp on Chrome.
 
