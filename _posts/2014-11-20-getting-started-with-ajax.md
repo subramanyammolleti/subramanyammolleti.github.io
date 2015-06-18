@@ -2,6 +2,7 @@
 layout: post
 title: "Getting started with Ajax"
 comments: true
+permalink: "getting-started-with-ajax"
 ---
 
 *Hello people!* It's been long time since the last post, i was bit busy with the work and all, today i'm going to 
