@@ -1,16 +1,16 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Subramanyam Molleti
-tagline:          'Blog, Java, Algorithms, Servlets, Linux, C, Python, Amazon, MongoDB'
+tagline:          ''
 url:              http://subramanyammolleti.github.io
 paginate:         1
-baseurl:          /
+baseurl:          ''
+paginate:         5
+
+# About/contact
 author:
   name:           Subramanyam Molleti
   url:            https://twitter.com/_MSubramanyam
