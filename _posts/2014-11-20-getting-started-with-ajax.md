@@ -29,7 +29,7 @@ form the browser
 
 **HTML Snippet**
 
-{% highlight js html %}
+{% highlight html %}
 
    <!DOCTYPE html>
    <html>
@@ -104,7 +104,7 @@ This method is used load content directly into `html` elements.
 {% endhighlight %}
 **Example**
 
-{% highlight js html %}
+{% highlight html %}
    <!DOCTYPE html>
    <html>
    <head>
@@ -147,7 +147,7 @@ a single line.
 
 **Example**
 
-{% highlight js html %}
+{% highlight html %}
    <!DOCTYPE html>
    <html>
    <head>
