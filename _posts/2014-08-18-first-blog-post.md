@@ -2,7 +2,6 @@
 layout: post
 title: "First Blog Post"
 comments: true
-permalink: "first-blog-post"
 ---
 
 *Hey there!* This is my first Post, I love Computer Scence and to write technical stuff, i 
@@ -21,8 +20,7 @@ I'm planning to write some articles on various things like
 * Linux
 * Some other on Latest Technologies
 
-I'm interested in *Algorithms*, i'm not pretty good at them i want to master some of the basic *Algorithms* in
-the near future.
+I'm interested in *Algorithms*, i'm not good at them i want to master them as i feel they teach me what real computer science is.
 
 Cheers
 
