@@ -6,7 +6,6 @@ relative_permalinks: true
 title:            Subramanyam Molleti
 tagline:          ''
 url:              http://subramanyammolleti.github.io
-paginate:         1
 baseurl:          ''
 paginate:         5
 
@@ -18,7 +17,7 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
+github:           https://github.com/subramanyammolleti
   repo:           https://github.com/subramanyammolleti/subramanyammolleti.github.io
 
 # This is the list of pages to include in the header of the website.
