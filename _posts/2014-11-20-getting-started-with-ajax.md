@@ -29,7 +29,8 @@ form the browser
 
 **HTML Snippet**
 
-```html
+{% highlight js html %}
+
    <!DOCTYPE html>
    <html>
    <head>
@@ -70,7 +71,8 @@ form the browser
  
    </body>
    </html> 
-```
+
+{% endhighlight %}
 
 **onreadystatechange** is fired when the server response is ready to be processed.
 When `readyState` is 4 and `status` Code is 200 the response is ready.
@@ -97,12 +99,12 @@ This method is used load content directly into `html` elements.
 **Syntax**
 
 
-```javascript
+{% highlight js %}
    $(selector).load("file.txt"); 
-```
+{% endhighlight %}
 **Example**
 
-```html
+{% highlight js html %}
    <!DOCTYPE html>
    <html>
    <head>
@@ -126,7 +128,7 @@ This method is used load content directly into `html` elements.
 
    </body>
    </html> 
-```
+{% endhighlight %}
 
 Have a look at this [example here](http://practise.comoj.com/ajaxLoad.html).
 
@@ -137,15 +139,15 @@ a single line.
 
 **Syntax**
 
-```javascript
+{% highlight js %}
    $.get(page_url,callback); 
-```
+{% endhighlight %}
 
 `callback` is executed after getting the content from the page.
 
 **Example**
 
-```html
+{% highlight js html %}
    <!DOCTYPE html>
    <html>
    <head>
@@ -172,7 +174,7 @@ a single line.
 
    </body>
    </html>   
-```
+{% endhighlight %}
 
 Have a look at this [example here](http://practise.comoj.com/ajaxGet.html).
 
