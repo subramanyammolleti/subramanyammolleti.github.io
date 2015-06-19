@@ -5,6 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Subramanyam Molleti
 tagline:          ''
+description:	  'Personal Blog of <a href="http://subramanyammolleti.github.io/about/">Subramanyam Molleti</a> who is a Software Engineer by Profesion he loves linux, Java, Javascript and Algorithms. Apart from these he likes Food and Travelling. Catch him at <a href="https://twitter.com/_MSubramanyam" target="_blank">@_MSubramanyam</a>.'
 url:              http://subramanyammolleti.github.io
 baseurl:          ''
 paginate:         5
