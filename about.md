@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![It's me at Shilparamam, Hyderabad](/assets/subramanyammolleti.jpg)
+<!--![It's me at Shilparamam, Hyderabad](/assets/subramanyammolleti.jpg)-->
 
 <p class="message">
   Hey there! This is Subramanyam Molleti who loves Computer Science and 
