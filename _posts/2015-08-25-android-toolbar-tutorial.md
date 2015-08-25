@@ -11,7 +11,7 @@ The User Experience of Lollipop has been increased with the introduction of the 
 and Components. As Toolbar is introduced in `Android Lollipop` to support the devices below this API level Andorid has introduced a AppCompact
 Support Library with which we can backport this Toolbar to the lower versions of Android.
 
-<img src="/assets/toolbar.png" style="float:left;padding-left:18px"/>
+<img src="/assets/toolbar.png" style="padding:10px;align:middle;"/>
 
 
 ## So, How to include a Toolbar ?
@@ -32,8 +32,9 @@ Sample `colors.xml` file
 
 Toolbar can be created in five simple steps 
 
-1. Disable the ActionBar and add color for the different attributes, you can find them in the below image.
-<img src="/assets/attributes.png" style="float:left;padding-left:18px"/>
+* Disable the ActionBar and add color for the different attributes, you can find them in the below image.
+
+<img src="/assets/attributes.png" style="padding:10px;align:middle;width:350;height:400;"/>
 
 In styles.xml disable ActionBar by setting the parent  to NoActionBar using `Theme.AppCompat.Light.NoActionBar`.
 
@@ -56,7 +57,7 @@ In styles.xml disable ActionBar by setting the parent  to NoActionBar using `The
  
 {% endhighlight %}
 
-2. Add the Dependencies i.e AppCompact Support Library in dependencies inside build.gradle file
+* Add the Dependencies i.e AppCompact Support Library in dependencies inside build.gradle file
 
 {% highlight Java %}
 
@@ -68,7 +69,7 @@ dependencies {
 
 {% endhighlight %}
 
-3. Create a layout file for the Toolbar
+* Create a layout file for the Toolbar
 
 {% highlight xml %} 
 
@@ -83,7 +84,7 @@ dependencies {
 
 {% endhighlight %} 
 
-4. Include the Toolbar XML file in Activity's layout file with this code
+* Include the Toolbar XML file in Activity's layout file with this code
 
 {% highlight xml %} 
 
@@ -94,7 +95,7 @@ dependencies {
 
 {% endhighlight %} 
 
-5. Replace the `extends Activity` with `extends AppCompatActivity` and create a reference for it and set it using  `setSupportActionBar(Toolbar)`.
+* Replace the `extends Activity` with `extends AppCompatActivity` and create a reference for it and set it using  `setSupportActionBar(Toolbar)`.
 
 {% highlight java %} 
 
