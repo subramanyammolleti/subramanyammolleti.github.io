@@ -179,7 +179,7 @@ a single line.
 Have a look at this [example here](http://practise.comoj.com/ajaxGet.html).
 
 In addition to the above two methods we have various methods to perform ajax operations in our pages, as it was a basic 
-article i would like to make it simple. In the next article i will show you how to make an `ajax call` to the `REST API` that is sitting on a third-party server.
+article i would like to make it simple.
 
 
 Thanks for reading

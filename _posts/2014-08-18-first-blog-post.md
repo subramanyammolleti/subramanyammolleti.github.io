@@ -16,7 +16,7 @@ Pretty Good ha.
 
 I'm planning to write some articles on various things like
 
-* Java
+* Android
 * Javascript
 * Linux
 * Some other on Latest Technologies
