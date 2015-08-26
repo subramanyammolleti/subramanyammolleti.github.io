@@ -11,7 +11,7 @@ The User Experience of Lollipop has been increased with the introduction of the 
 and Components. As Toolbar is introduced in `Android Lollipop` to support the devices below this API level Andorid has introduced a AppCompact
 Support Library with which we can backport this Toolbar to the lower versions of Android.
 
-<img src="/assets/toolbar.png" style="padding:10px;align:middle;"/>
+<img src="/assets/toolbar.png"/>
 
 
 ## So, How to include a Toolbar ?
@@ -34,7 +34,7 @@ Toolbar can be created in five simple steps
 
 * Disable the ActionBar and add color for the different attributes, you can find them in the below image.
 
-<img src="/assets/attributes.png" style="padding:10px;align:middle;width:350;height:400;"/>
+<img src="/assets/attributes.png" style="width:350px;height:520px;"/>
 
 In styles.xml disable ActionBar by setting the parent  to NoActionBar using `Theme.AppCompat.Light.NoActionBar`.
 
@@ -42,16 +42,16 @@ In styles.xml disable ActionBar by setting the parent  to NoActionBar using `The
  
 <resources>
 
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Main theme colors -->
-        <!--   your app branding color for the app bar -->
-        <item name="android:colorPrimary">@color/primary</item>
-        <!--   darker variant for the status bar and contextual app bars -->
-        <item name="android:colorPrimaryDark">@color/primary_dark</item>
-        <!--   theme UI controls like checkboxes and text fields -->
-        <item name="android:colorAccent">@color/accent</item>
-    </style>
+   <!-- Base application theme. -->
+   <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+      <!-- Main theme colors -->
+      <!-- Your app branding color for the app bar -->
+      <item name="android:colorPrimary">@color/primary</item>
+      <!-- Darker variant for the status bar and contextual app bars -->
+      <item name="android:colorPrimaryDark">@color/primary_dark</item>
+      <!-- Theme UI controls like checkboxes and text fields -->
+      <item name="android:colorAccent">@color/accent</item>
+   </style>
 
 </resources>
  
