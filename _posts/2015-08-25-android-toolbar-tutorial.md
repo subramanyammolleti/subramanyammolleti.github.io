@@ -104,9 +104,9 @@ setSupportActionBar(toolBar);
 
 {% endhighlight %} 
 
-If your stuck anywhere please post it here.
 
-Thanks for reading
+Thanks for reading,
+Cheers.
 
 
 {% include twitter_plug.html %}
