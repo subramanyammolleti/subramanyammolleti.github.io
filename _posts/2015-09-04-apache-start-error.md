@@ -31,7 +31,7 @@ Run `cmd` as `Adminstrator` and type the following command
 Simply Stop the Service in Services.msc 
 Goto `run` Services.msc find <b>Workstation</b>-><b>Right Click</b>-><b>Stop</b>
 
-Hope these help, Thanks for reading.
+Hope this helps, Thanks for reading.<br/>
 Cheers.
 
 {% include twitter_plug.html %}
