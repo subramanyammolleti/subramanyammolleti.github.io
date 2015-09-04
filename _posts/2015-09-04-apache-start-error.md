@@ -12,10 +12,11 @@ of simple things that can get rid of this Problem in `Windows OS`.
 
 
 * Blocked Port
-This is mainly caused by `Skype`, `Skype` uses port `80` which is needed by `Apache` Prevent it from doing so
+This is mainly caused by `Skype`, `Skype` uses port `80` which is needed by `Apache` to Prevent it from using Port 80
 Goto <b>Tools</b>-><b>Options</b>-><b>Advanced</b>-><b>Connection</b>
-There `Uncheck Use port 80 and 443 for additional incoming connections`.
-Or 
+There `Uncheck Use port 80 and 443 for additional incoming connections`.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Or<br/> 
 You can also try changing the port in `http.conf` that can be found at `C:\xampp\apache\conf`, Now find
 `Listen 80` and `ServerName localhost:80`. Type `netstat` in `cmd` and find a free port(ex:8090), replace it
 in `http.conf` at `Listen 8090` and `ServerName localhost:8090`.
@@ -33,4 +34,4 @@ Goto `run` Services.msc find <b>Workstation</b>-><b>Right Click</b>-><b>Stop</b>
 Hope these help, Thanks for reading.
 Cheers.
 
-
+{% include twitter_plug.html %}
