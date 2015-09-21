@@ -22,6 +22,8 @@ Let the Browser on your PC load WhatsApp UI, Your phone needs to `stay connected
 
 Sorry about `iPhone Users`,as mentioned in `WhatsApp offical post`, Apple platform has `limitations` so they couldn't provide a `webclient for iPhone users`. This service is currently available for `Android`, `Windows` and `Blackberry` users for now. If your struck do post in your queries, i will get back to you asap.
 
+<b>Note</b> : Recently `WhatsApp Inc` Started supporting `Mozilla Firefox` and `Opera browsers`.
+
 Hope this helped, Thanks for reading <br>
 cheers.
 
