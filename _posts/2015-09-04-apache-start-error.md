@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comman Apache Starting Problems"
+title: "Common Apache Starting Problems"
 comments: true
 permalink: "apache-start-error"
 ---
