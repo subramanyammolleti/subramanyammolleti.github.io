@@ -7,7 +7,7 @@ title: About
 
 <p class="message">
   Hey there! This is Subramanyam Molleti who loves Computer Science and 
-  Open Source, I always Hogs on my Ubuntu Machine learning something.
+  Open Source, I love to spend time on My Ubuntu Machine learning something.
 </p>
 
 I have Done Bachelor of Technology in Computer Science at [JNTUK](http://www.jntuk.edu.in/). Currently I'm working as a Software Engineer in [Smart IMS Inc.](http://www.smartims.com/) at it's *Hyderabad Development Center.* 
