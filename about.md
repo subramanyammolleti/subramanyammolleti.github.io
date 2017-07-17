@@ -10,7 +10,7 @@ title: About
   Open Source, I love to spend time on My Ubuntu Machine learning something.
 </p>
 
-I have Done Bachelor of Technology in Computer Science at [JNTUK](http://www.jntuk.edu.in/). Currently I'm working as a Software Engineer in [Smart IMS Inc.](http://www.smartims.com/) at it's *Hyderabad Development Center.* 
+I have Done Bachelor of Technology in Computer Science at [JNTUK](http://www.jntuk.edu.in/). Currently I'm working as a Software Engineer in [CELES CARE.](https://celes.care/) a Health Care Startup at it's *Hyderabad Development Center.* 
 
 I'm interested in *Web, Open Source, Mobile and Algorithms.*
 
