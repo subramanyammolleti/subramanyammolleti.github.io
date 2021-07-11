@@ -1,39 +1,55 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE HTML>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<html>
+	<head>
+		<script type="text/javascript">
+    			var host = "subramanyammolleti.github.com";
+			if ((host == window.location.host) && (window.location.protocol != "https:"))
+				window.location.protocol = "https";
+		</script>
+		<title>Subramanyam Molleti</title>
+		<meta charset="utf-8" />
+		<meta name="description" content="Official Webpage of Subramanyam Molleti" />
+		<meta name="keywords" content="Subramanyam Molleti, Computer Engineer, Software Developer, Web Developer" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="canonical" href="http://subramanyammolleti.github.com" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="loading">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+				<!-- Header -->
+					<header id="header">
+						<h1>Subramanyam Molleti</h1>
+						<p>Full Stack Developer | Infosys</p>
+						<nav>
+							<ul>
+								<li><a href="mailto:smolleti@protonmail.com" target="_blank" class="icon fa-envelope"><span class="label">Mail</span></a></li>
+								<li><a href="https://twitter.com/_MSubramanyam" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://github.com/subramanyammolleti" target="_blank" class="icon fa-github-alt"><span class="label">Github</span></a></li>
+								<li><a href="https://stackoverflow.com/users/2247356" target="_blank" class="icon fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+								</ul>
+						</nav>
+					</header>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright">&copy; Subramanyam Molleti. <a href="#" target="_blank" class="icon fa-info-circle"><span class="label">Credits</span></a></span>
+					</footer>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
-
+			</div>
+		</div>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script>
+			window.onload = function() { document.body.className = ''; }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
